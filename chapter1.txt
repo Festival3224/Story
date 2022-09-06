@@ -1,0 +1,1 @@
+Use the command line to navigate to the Desktop, and then type cat myFile. txt . This will print the contents of the file to your command line. This is the same idea as using the GUI to double-click on the text file to see its contents.
